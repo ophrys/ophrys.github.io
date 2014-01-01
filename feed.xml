@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Broken</title>
+    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://localhost:8080</link>
+    <description>It has much more sense in Italian</description>
+    <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Why, you ask?</title>
+      <link>http://localhost:8080/articles/hello-world/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/hello-world/</guid>
+      <author></author>
+      <description>&lt;p&gt;I needed to do something that had consequences. 
+&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
+Do you ever think about that? Nothing really seems to have any. Whatever you do or say, nothing really ever changes. &lt;/p&gt;
+&lt;p&gt;Are you and I alive? Has life always been like this? Why do we have to know what void is? Emptyness. Everywhere.&lt;/p&gt;
+&lt;p&gt;We have to do something. Made up a meaning if there is none. We gotta do that, do you understand? We either find a reason to live, or perish. And don’t say that I’m exaggerating because I’m drunk. 
+I drunk because I wanted to. Feel. Anything. And you know that.&lt;/p&gt;
+&lt;p&gt;Happy new year, my friend.&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
