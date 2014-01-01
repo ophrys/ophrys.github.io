@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Broken</title>
-    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
-    <link>http://localhost:8080</link>
+    <atom:link href="http://ophrys.github.io//feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://ophrys.github.io/</link>
     <description>It has much more sense in Italian</description>
     <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
       <title>Why, you ask?</title>
-      <link>http://localhost:8080/articles/hello-world/</link>
+      <link>http://ophrys.github.io//articles/hello-world/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/hello-world/</guid>
+      <guid isPermaLink="true">http://ophrys.github.io//articles/hello-world/</guid>
       <author></author>
       <description>&lt;p&gt;I needed to do something that had consequences. 
 &lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
